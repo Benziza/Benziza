@@ -19,17 +19,21 @@
 
 ### 💻 Languages  
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40"/> 
   <img src="https://skillicons.dev/icons?i=java" height="40"/> 
   <img src="https://skillicons.dev/icons?i=js" height="40"/> 
   <img src="https://skillicons.dev/icons?i=ts" height="40"/>
 </p>
 
+---
+
 ### ⚙️ Back-End  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40"/> 
   <img src="https://skillicons.dev/icons?i=spring" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=java" height="40"/> 
 </p>
+
+---
 
 ### 🎨 Front-End  
 <p align="left">
@@ -38,22 +42,27 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 </p>
 
+---
+
 ### ☁️ DevOps / Cloud  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40"/> 
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/> 
   <img src="https://skillicons.dev/icons?i=jenkins" height="40"/> 
   <img src="https://skillicons.dev/icons?i=gitlab" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=ansible" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40"/> 
   <img src="https://skillicons.dev/icons?i=aws" height="40"/> 
 </p>
+
+---
 
 ### 🗃️ Databases  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql" height="40"/> 
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/> 
 </p>
+
+---
 
 ## 🧰 Tools I Use  
 <p align="left">
