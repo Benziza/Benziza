@@ -25,15 +25,11 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40"/>
 </p>
 
----
-
 ### ⚙️ Back-End  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40"/> 
   <img src="https://skillicons.dev/icons?i=spring" height="40"/> 
 </p>
-
----
 
 ### 🎨 Front-End  
 <p align="left">
@@ -41,8 +37,6 @@
   <img src="https://skillicons.dev/icons?i=vue" height="40"/> 
   <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 </p>
-
----
 
 ### ☁️ DevOps / Cloud  
 <p align="left">
@@ -54,15 +48,11 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40"/> 
 </p>
 
----
-
 ### 🗃️ Databases  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql" height="40"/> 
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> 
 </p>
-
----
 
 ## 🧰 Tools I Use  
 <p align="left">
@@ -70,6 +60,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40"/> 
   <img src="https://skillicons.dev/icons?i=gitlab" height="40"/> 
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40"/> 
   <img src="https://skillicons.dev/icons?i=idea" height="40"/> 
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 </p>
