@@ -71,7 +71,6 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="40"/> 
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
   <img src="https://skillicons.dev/icons?i=idea" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40"/> 
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 </p>
 
