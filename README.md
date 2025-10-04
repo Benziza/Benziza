@@ -1,65 +1,97 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#">
+  <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="banner"/>
+</a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Benziza Mohamed</h1>
-<h3 align="center">I'm a software engineer at Talentplug specializing in C# and Vue.</h3>
+<h3 align="center">Software Engineer | Crafting logic, design, and a bit of magic ✨</h3>
 
-## 🙋‍♂️ About Me
+---
 
-- 🔭 I’m currently working at **Talentplug**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me **benizizamohamed@gmail.com**
+## 🧭 About Me  
 
-## 🚀 Languages and Tools:
+- 🔭 Currently building scalable apps at **Talentplug**  
+- 👯 Open to collaborate on **Open Source Projects**  
+- 📫 Reach me at **benizizamohamed@gmail.com**
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+---
+
+## 🧩 What I Bring to the Code  
+
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=js" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=ts" height="40"/>
 </p>
 
-<br/>
+### ⚙️ Back-End  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> 
+</p>
+
+### 🎨 Front-End  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=vue" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+</p>
+
+### ☁️ DevOps / Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=ansible" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/> 
+</p>
+
+### 🗃️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/> 
+</p>
+
+## 🧰 Tools I Use  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=idea" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-    <a href="https://github.com/Benziza/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Benziza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Benziza&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Benziza&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benziza&theme=black-ice&hide_border=true&background=060A0CD0" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benziza&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="langs"/>
 </p>
 
-## 📊 My Github Stats
+---
 
-<br/>
-<a href="https://github.com/Benziza/github-readme-stats">
-    <img alt="Benziza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Benziza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Benziza/github-readme-stats">
-    <img alt="Benziza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benziza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 🌐 Connect With Me  
 
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-    <a href="https://www.linkedin.com/in/benziza-mohamed-6849b71bb//">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-    </a>
-    <a href="https://web.facebook.com/profile.php?id=100009450505747">
-        <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/benziza-mohamed-6849b71bb/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100009450505747">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Benziza">
-</a>
-<a href="https://github.com/Benziza?tab=followers">
-    <img src="https://img.shields.io/github/followers/Benziza?label=Followers&style=social" alt="GitHub Badge">
-</a>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Benziza&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Benziza?style=for-the-badge&color=1f6feb" alt="Followers"/>
+</p>
