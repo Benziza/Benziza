@@ -70,9 +70,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benziza&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benziza&theme=black-ice&hide_border=true&background=060A0CD0" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benziza&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="langs"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Benziza&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Benziza&theme=black-ice&hide_border=true&background=060A0CD0" alt="GitHub streak"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benziza&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 </p>
 
 ---
