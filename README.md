@@ -70,9 +70,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Benziza&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Benziza&theme=black-ice&hide_border=true&background=060A0CD0" alt="GitHub streak"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benziza&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+  <img src="./assets/github-stats.svg" alt="GitHub stats" width="49%"/>
+  <img src="./assets/github-streak.svg" alt="GitHub streak" width="49%"/>
+  <img src="./assets/top-languages.svg" alt="Top languages" width="49%"/>
 </p>
 
 ---
