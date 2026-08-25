@@ -9,13 +9,13 @@
 <text x="22" y="32" class="title">GitHub Contribution Streak</text>
 <line x1="140" y1="57" x2="140" y2="168" stroke="#30363d"/>
 <line x1="280" y1="57" x2="280" y2="168" stroke="#30363d"/>
-<text x="70" y="94" text-anchor="middle" class="value">11</text>
+<text x="70" y="94" text-anchor="middle" class="value">12</text>
 <text x="70" y="119" text-anchor="middle" class="label">Current streak</text>
-<text x="70" y="145" text-anchor="middle" class="small">Aug 13 - Aug 23, 2026</text>
-<text x="210" y="94" text-anchor="middle" class="value">11</text>
+<text x="70" y="145" text-anchor="middle" class="small">Aug 13 - Aug 24, 2026</text>
+<text x="210" y="94" text-anchor="middle" class="value">12</text>
 <text x="210" y="119" text-anchor="middle" class="label">Longest streak</text>
-<text x="210" y="145" text-anchor="middle" class="small">Aug 13 - Aug 23, 2026</text>
-<text x="350" y="94" text-anchor="middle" class="value">554</text>
+<text x="210" y="145" text-anchor="middle" class="small">Aug 13 - Aug 24, 2026</text>
+<text x="350" y="94" text-anchor="middle" class="value">566</text>
 <text x="350" y="119" text-anchor="middle" class="label">Contributions</text>
 <text x="350" y="145" text-anchor="middle" class="small">Last 12 months</text>
 <text x="210" y="184" text-anchor="middle" class="small">Generated from the public contribution calendar</text>
