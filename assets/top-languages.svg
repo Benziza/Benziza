@@ -10,26 +10,26 @@
 <circle cx="26" cy="53" r="5" fill="#178600"/>
 <text x="38" y="57" class="label">C#</text>
 <rect x="145" y="46" width="205" height="9" rx="4.5" fill="#21262d"/>
-<rect x="145" y="46" width="115" height="9" rx="4.5" fill="#178600"/>
-<text x="395" y="57" text-anchor="end" class="small">56.2%</text>
+<rect x="145" y="46" width="114" height="9" rx="4.5" fill="#178600"/>
+<text x="395" y="57" text-anchor="end" class="small">55.7%</text>
 <circle cx="26" cy="80" r="5" fill="#b07219"/>
 <text x="38" y="84" class="label">Java</text>
 <rect x="145" y="73" width="205" height="9" rx="4.5" fill="#21262d"/>
-<rect x="145" y="73" width="35" height="9" rx="4.5" fill="#b07219"/>
-<text x="395" y="84" text-anchor="end" class="small">16.9%</text>
-<circle cx="26" cy="107" r="5" fill="#e34c26"/>
-<text x="38" y="111" class="label">HTML</text>
+<rect x="145" y="73" width="34" height="9" rx="4.5" fill="#b07219"/>
+<text x="395" y="84" text-anchor="end" class="small">16.8%</text>
+<circle cx="26" cy="107" r="5" fill="#3178c6"/>
+<text x="38" y="111" class="label">TypeScript</text>
 <rect x="145" y="100" width="205" height="9" rx="4.5" fill="#21262d"/>
-<rect x="145" y="100" width="15" height="9" rx="4.5" fill="#e34c26"/>
-<text x="395" y="111" text-anchor="end" class="small">7.5%</text>
-<circle cx="26" cy="134" r="5" fill="#3178c6"/>
-<text x="38" y="138" class="label">TypeScript</text>
+<rect x="145" y="100" width="16" height="9" rx="4.5" fill="#3178c6"/>
+<text x="395" y="111" text-anchor="end" class="small">7.6%</text>
+<circle cx="26" cy="134" r="5" fill="#e34c26"/>
+<text x="38" y="138" class="label">HTML</text>
 <rect x="145" y="127" width="205" height="9" rx="4.5" fill="#21262d"/>
-<rect x="145" y="127" width="14" height="9" rx="4.5" fill="#3178c6"/>
-<text x="395" y="138" text-anchor="end" class="small">7.0%</text>
+<rect x="145" y="127" width="15" height="9" rx="4.5" fill="#e34c26"/>
+<text x="395" y="138" text-anchor="end" class="small">7.5%</text>
 <circle cx="26" cy="161" r="5" fill="#f1e05a"/>
 <text x="38" y="165" class="label">JavaScript</text>
 <rect x="145" y="154" width="205" height="9" rx="4.5" fill="#21262d"/>
-<rect x="145" y="154" width="8" height="9" rx="4.5" fill="#f1e05a"/>
-<text x="395" y="165" text-anchor="end" class="small">4.1%</text>
+<rect x="145" y="154" width="9" height="9" rx="4.5" fill="#f1e05a"/>
+<text x="395" y="165" text-anchor="end" class="small">4.2%</text>
 </svg>
