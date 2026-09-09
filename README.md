@@ -80,11 +80,8 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benziza-mohamed-6849b71bb/">
+  <a href="https://www.linkedin.com/in/mohamed-benziza-6849b71bb/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://web.facebook.com/profile.php?id=100009450505747">
-    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
 
