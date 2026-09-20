@@ -26,7 +26,7 @@
 <text x="38" y="138" class="label">HTML</text>
 <rect x="145" y="127" width="205" height="9" rx="4.5" fill="#21262d"/>
 <rect x="145" y="127" width="14" height="9" rx="4.5" fill="#e34c26"/>
-<text x="395" y="138" text-anchor="end" class="small">6.9%</text>
+<text x="395" y="138" text-anchor="end" class="small">6.8%</text>
 <circle cx="26" cy="161" r="5" fill="#663399"/>
 <text x="38" y="165" class="label">CSS</text>
 <rect x="145" y="154" width="205" height="9" rx="4.5" fill="#21262d"/>
