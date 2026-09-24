@@ -15,13 +15,13 @@
 <circle cx="26" cy="80" r="5" fill="#3178c6"/>
 <text x="38" y="84" class="label">TypeScript</text>
 <rect x="145" y="73" width="205" height="9" rx="4.5" fill="#21262d"/>
-<rect x="145" y="73" width="34" height="9" rx="4.5" fill="#3178c6"/>
+<rect x="145" y="73" width="33" height="9" rx="4.5" fill="#3178c6"/>
 <text x="395" y="84" text-anchor="end" class="small">16.3%</text>
 <circle cx="26" cy="107" r="5" fill="#b07219"/>
 <text x="38" y="111" class="label">Java</text>
 <rect x="145" y="100" width="205" height="9" rx="4.5" fill="#21262d"/>
 <rect x="145" y="100" width="28" height="9" rx="4.5" fill="#b07219"/>
-<text x="395" y="111" text-anchor="end" class="small">13.7%</text>
+<text x="395" y="111" text-anchor="end" class="small">13.6%</text>
 <circle cx="26" cy="134" r="5" fill="#e34c26"/>
 <text x="38" y="138" class="label">HTML</text>
 <rect x="145" y="127" width="205" height="9" rx="4.5" fill="#21262d"/>
