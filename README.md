@@ -10,7 +10,7 @@
 ## 🧭 About Me  
 
 - 🔭 Currently building scalable apps at **Talentplug**  
-- 👯 Open to collaborate on **Open Source Projects**  
+- 🤝 Open to collaborate on **Open Source Projects**  
 - 📫 Reach me at **benizizamohamed@gmail.com**
 
 ---
